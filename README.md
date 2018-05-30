@@ -1,2 +1,7 @@
-# challenge-frontend
-Desafio para candidatos a vaga de frontend na Menu Tecnologia
+# Challenge Frontend
+Desafio para candidatos a vaga de Frontend JR. na Menu Tecnologia
+
+### Pré-requisitos
+Layout responsivo
+
+
